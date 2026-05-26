@@ -1,0 +1,10 @@
+O projeto consiste em uma ferramenta de linha de comando (CLI) voltada para 
+automação DevOps de aplicações Node.js dockerizadas, permitindo executar tarefas 
+como build, deploy, rollback, monitoramento, health checks, visualização de logs e 
+integração contínua/entrega contínua (CI/CD) de forma automatizada em ambientes Linux. 
+Desenvolvido com JavaScript, Docker, Bash e GitHub Actions, o sistema simula práticas reais 
+utilizadas por equipes de engenharia de software e infraestrutura, centralizando 
+operações de deploy e gerenciamento de containers em uma interface simples e extensível. 
+Além de demonstrar conhecimentos em backend e automação, o projeto evidencia domínio 
+de Linux, Docker, pipelines CI/CD, testes unitários com Jest, scripting Bash e arquitetura
+ DevOps moderna.
